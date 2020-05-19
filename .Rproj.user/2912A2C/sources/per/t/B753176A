@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589862028626.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1880485655",
+    "id" : "B753176A",
+    "lastKnownWriteTime" : 1589862074,
+    "last_content_update" : 1589862074097,
+    "path" : "D:/R projects/satyam/R1.R",
+    "project_path" : "R1.R",
+    "properties" : {
+        "cursorPosition" : "0,33",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
