@@ -1,0 +1,22 @@
+---
+title: "r markown 2"
+author: "satyam raj"
+date: "23/05/2020"
+output: pdf_document
+
+
+ **satyam**
+ *raj*
+ # line 1
+ - hii  
+```{r}
+print("satyam raj is a boy")
+```
+ 
+```{r}
+print("what is happening")
+```
+- hiiii  
+
+ 
+ 
